@@ -1,0 +1,8 @@
+#game td {
+    border: 2px solid;
+    margin: 0px;
+    padding: 10px;
+}
+#game td.selected {
+    background: #aaf;
+}
